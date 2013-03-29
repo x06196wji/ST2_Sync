@@ -1,0 +1,70 @@
+[
+    {
+    "command"  : "navigate_to_definition",
+    "keys"     : ["ctrl+="]
+    },
+    
+    {
+    "command"  : "search_for_definition",
+    "keys"     : ["ctrl+\\"]
+    },
+    {
+    "command"  : "jump_back",
+    "keys"     : ["alt+,"]
+    },
+    {
+    "command"  : "rebuild_tags",
+    "keys"     : ["ctrl+t", "ctrl+r"]
+    },
+    {
+    "command"  : "show_symbols",
+    "context"  : [
+    {
+    "key"      : "selector",
+    "match_all": true,
+    "operand"  : "source -source.css",
+    "operator" : "equal"
+    }
+    ],
+    "keys"     : ["alt+s"]
+    },
+    {
+    "command"  : "show_symbols",
+    "args"     : {"type": "multi"},
+    "context"  : [
+    {
+    "key"      : "selector",
+    "match_all": true,
+    "operand"  : "source -source.css",
+    "operator" : "equal"
+    }
+    ],
+    "keys"     : ["alt+shift+s"]
+    },
+    {
+    "command"  : "show_symbols",
+    "args"     : {"type": "lang"},
+    "context"  : [
+    {
+    "key"      : "selector",
+    "match_all": true,
+    "operand"  : "source -source.css",
+    "operator" : "equal"
+    }
+    ],
+    "keys"     : ["ctrl+alt+shift+s"]
+    },
+    { // override current default
+    "command"  : "transpose",
+    "context"  : [
+    { "key"    : "num_selections", "operator": "not_equal", "operand": 1 }
+    ],
+    "keys"     : ["ctrl+t"]
+    },
+    { "keys"   : ["alt+shift"], "command": "show_overlay", "args": {"overlay": "command_palette"} }
+    , { "keys" : ["ctrl+t"], "command": "side_bar_new_file2" },
+    { "keys"   : ["f2"], "command": "side_bar_rename" },
+    { "keys"   : ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" }
+    
+    
+]

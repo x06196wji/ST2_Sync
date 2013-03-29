@@ -1,0 +1,29 @@
+{
+    "show_output_panel": false,
+    "dont_prepend_clang_includes": false,
+    "show_visual_error_marks": false,
+    "error_marks_on_panel_only": false,
+ 
+    "additional_language_options":
+    {
+        "c++" :
+        [
+            // "-std=g++",
+            // "-isystem", "C:\\MinGW\\bin",
+            // "-isystem", "C:\\MinGW\\lib\\gcc\\mingw32\\4.6.2\\include\\c++"
+        ],
+        "c":
+        [
+            // "-std=hcac",
+            // "-isystem", "C:\\MinGW\\bin",
+            // "-isystem", "C:\\MinGW\\lib\\gcc\\mingw32\\4.6.2\\include\\c++"
+            // "-isystem", "C:\\MetaDeveloper1.05\\hcac\\bin",
+            // "-isystem", "C:\\MetaDeveloper1.05\\hcac\\inc\\**"
+        ]
+    },
+ 
+    "options": 
+     [ 
+ 
+     ] 
+}

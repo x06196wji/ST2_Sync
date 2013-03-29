@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"CTags",
+		"Github Tools",
+		"Google Translate",
+		"google-search",
+		"KeymapManager",
+		"Lua Dev",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGoogle",
+		"Sweyla's Color Theme Generator",
+		"Switch Script",
+		"Theme - Soda",
+		"Toggle Symbol to String"
+	],
+	"repositories":
+	[
+		"https://github.com/x06196wji/ST2_Sync/",
+		"de5155ca401b011913c39db68787643561239911"
+	]
+}

@@ -1,0 +1,1932 @@
+{
+	"folder_history":
+	[
+		"/D/server_shiny_613",
+		"/D/Sunny10OS/Marmot/SD10P",
+		"/D/Shiny4OS/Marmot/Latour/Lua",
+		"/D/Shiny4OS/Marmot/Latour/Include",
+		"/D/Latour/Lvlumanr/test_case/lau_script",
+		"/D/Shiny4OS/TBirdOS(Latour)",
+		"/D/Shiny4OS/TBirdOS-Latour",
+		"/D/TEST/python_excel_to_sqlite",
+		"/D/TEST/SublimeClang/TEST",
+		"/D/Sunny10OS",
+		"/D/Sunny10OS/TBirdOS(SD10P)",
+		"/D/Sunny10OS/TBirdHAL/S10Plus",
+		"/D/Sunny10OS/MQX",
+		"/D/Sunny10OS/Marmot/SD10PMP",
+		"/D/Apollo/NRE3D/NRE3D HAL code",
+		"/D/Sunny10OS/TBirdHAL",
+		"/D/Sunny10OS/Marmot/SD10MP",
+		"/D/Sunny10OS/TBirdHAL/S10P",
+		"/D/Sunny10OS/TBirdOS",
+		"/D/Shiny4OS",
+		"/D/TOOL/RTC/debug_tool/debug_tool"
+	],
+	"last_window_id": 121,
+	"settings":
+	{
+		"new_window_height": 884.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"u",
+						"tile_write_up_crop_pixel_num	UINT32"
+					],
+					[
+						"he",
+						"tile_write_image_height	UINT32"
+					],
+					[
+						"r",
+						"input_right_crop_pixel_num	UINT32"
+					],
+					[
+						"t",
+						"tile_write_image_width	UINT32"
+					],
+					[
+						"s",
+						"tile_write_start_addr	UINT32"
+					],
+					[
+						"g_tes",
+						"g_TEST_LUMANRE_tParameter	TEST_LUMANRE_PARAMETER"
+					],
+					[
+						"gt",
+						"g_TEST_LUMANRE_tParameter	TEST_LUMANRE_PARAMETER"
+					],
+					[
+						"o",
+						"ulRealOutSize	int"
+					],
+					[
+						"g_",
+						"g_TEST_LUMANRE_info	TEST_LUMANRE_INFO"
+					],
+					[
+						"tw",
+						"tsw_config	TEST_LUMANRE_SW_CONFIG"
+					],
+					[
+						"Tt",
+						"TEST_LUMANRE_tParameter	TEST_LUMANRE_PARAMETER"
+					],
+					[
+						"cx",
+						"CModel_final_y_xor_out	int"
+					],
+					[
+						"ts",
+						"tsw_config	TEST_LUMANRE_SW_CONFIG"
+					],
+					[
+						"g",
+						"g_TEST_LUMANRE_info	TEST_LUMANRE_INFO"
+					],
+					[
+						"T",
+						"TEST_LUMANRE_PARAMETER	typedef"
+					],
+					[
+						"g_T",
+						"g_TEST_LUMANRECTRL_tParam	int"
+					],
+					[
+						"mem",
+						"memcpy(void *, const void *, size_t)	void *"
+					],
+					[
+						"g_TEST_LUMANRE_t",
+						"g_TEST_LUMANRE_tParam	int"
+					],
+					[
+						"out",
+						"out_width	UINT32"
+					],
+					[
+						"UINT",
+						"UINT16	typedef"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"HAcommset",
+						"HAL_COMMON_SetRegisterGroup(void *a_ptValueGroup, UINT16 a_uwCount, UINT32 a_ulAddress)	void"
+					],
+					[
+						"HALBB",
+						"HAL_BYPASS_Y_BLEND_EDGE_FEATURE_OUT	macro"
+					],
+					[
+						"HALBYB",
+						"HAL_BYPASS_Y_BLEND_ALTEK_FILTER_II_X_OUT	macro"
+					],
+					[
+						"HALBY",
+						"HAL_BYPASS_Y_BLEND_BLEND_OUT	macro"
+					],
+					[
+						"cc",
+						"core_cmd1"
+					],
+					[
+						"op",
+						"open"
+					],
+					[
+						"cor",
+						"core_cmd"
+					],
+					[
+						"ca",
+						"case_nb"
+					],
+					[
+						"pa",
+						"Pattern_"
+					],
+					[
+						"tx",
+						"reg_default_txt"
+					],
+					[
+						"index",
+						"index2"
+					],
+					[
+						"re",
+						"remove  (function)"
+					],
+					[
+						"CD",
+						"chdir"
+					],
+					[
+						"w",
+						"writelines  (function)"
+					],
+					[
+						"d",
+						"d_setting"
+					],
+					[
+						"case",
+						"case_names"
+					],
+					[
+						"patter",
+						"pattern_setting_dc"
+					],
+					[
+						"cas",
+						"case_1"
+					],
+					[
+						"ex",
+						"excel_data"
+					],
+					[
+						"ec",
+						"excel_path"
+					],
+					[
+						"exce",
+						"excel_file"
+					],
+					[
+						"inde",
+						"index"
+					],
+					[
+						"in",
+						"index1"
+					],
+					[
+						"N",
+						"new_value"
+					],
+					[
+						"f",
+						"find"
+					],
+					[
+						"ind",
+						"index1"
+					],
+					[
+						"c",
+						"compile"
+					],
+					[
+						"pr",
+						"print"
+					],
+					[
+						"def",
+						"default_dc"
+					],
+					[
+						"de",
+						"default_dc"
+					],
+					[
+						"find",
+						"findall"
+					],
+					[
+						"IN",
+						"INTO"
+					],
+					[
+						"cars",
+						"carsName"
+					],
+					[
+						"car",
+						"carsName"
+					],
+					[
+						"i",
+						"inc	#include \"…\""
+					],
+					[
+						"rtcre",
+						"rtcreg_15_0"
+					],
+					[
+						"reg",
+						"reg_write"
+					],
+					[
+						"src",
+						"src_cb"
+					],
+					[
+						"is",
+						"isdir  (function)"
+					],
+					[
+						"sys",
+						"system  (function)"
+					]
+				]
+			},
+			"build_system": "Packages/C++/C++.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"pai",
+						"Package Control: Install Package"
+					],
+					[
+						"paci",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Enable Package"
+					],
+					[
+						"pack i",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"p",
+						"Package Control: Disable Package"
+					],
+					[
+						"instag",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: d",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 207.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/server_shiny_613/Marmot/Latour/Test/LumaNRETEST/TEST_LumaNRE.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/RTOS/LVHWIRPCtrl_rtos.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/RTOS/LumaNRECtrl_rtos.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/HAL/LumaNRE/HAL_LumaNRE.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/HAL/Reg/LumaNRE_Reg.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/HAL/HAL_LumaNRE.h",
+				"/D/Shiny4OS/Marmot/Latour/Include/Test/TEST_LumaNRE.h",
+				"/D/Shiny4OS/Marmot/Latour/Test/LVHWIRPTEST/TEST_LVHWIRP.c",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_LVHWIRP_Dbg.c",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_LumaNRE.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/LumaNRECtrl/LumaNRECtrl.c",
+				"/D/Shiny4OS/Marmot/Latour/Test/LumaNRETEST/TEST_LumaNRE.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/rtossemaphore.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_Cmd.c",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_Misc.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/HAL/HAL_LVHWIRP.h",
+				"/D/Latour_sim_631/Marmot/Latour/Lua/cmd/LUA_Misc.c",
+				"/D/Latour_sim_631/latour_sim_631.sublime-project",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/Error/LumaNRECtrl_err.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/SysCtrl/LumaNRECtrl.h",
+				"/D/Shiny4OS/Latour.sublime-project",
+				"/D/Shiny4OS/Marmot/Latour/Include/RTOS/Main_rtos.h",
+				"/D/server_shiny_613/Marmot/Latour/Include/RTOS/Main_rtos.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/HAL/Common/HAL_Common.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/HAL/iobase.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_LVHWIRP.c",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/SublimeClang/Default.sublime-keymap",
+				"/D/Shiny4OS/Marmot/Latour/Public/File_Tool.c",
+				"/D/Shiny4OS/Marmot/Latour/Public/IOBus_Tool.c",
+				"/D/Shiny4OS/Marmot/Latour/Include/SystemConfig/SysCfg.h",
+				"/D/Shiny4OS/Marmot/Latour/Include/File_Tool.h",
+				"/D/Sunny10OS/Marmot/SD10ES/Public/USB_Tool.c",
+				"/D/Sunny10OS/Marmot/SD10ES/Include/USB_Tool.h",
+				"/D/Shiny4OS/Marmot/Latour/Include/Console/afopen.h",
+				"/D/Shiny4OS/Marmot/Latour/Console/CmdParser/afopen.h",
+				"/D/Shiny4OS/Marmot/Latour/Include/CTRL_IOBus.h",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+				"/D/Shiny4OS/Marmot/Latour/Test/DScalarTEST/TEST_DScalar.c",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_MIPILineRead_Dbg.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/Error/rtos_err.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/moduleid.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/DScalarCtrl/DScalarCtrl.c",
+				"/D/Shiny4OS/Marmot/Latour/Include/RTOS/TEST_Cap_rtos.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_LumaNRE_Dbg.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/rtosevent.h",
+				"/D/Shiny4OS/Marmot/Latour/Include/Test/TEST_DScalar.h",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/User/SublimeClang.sublime-settings",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/osshell.h",
+				"/D/Shiny4OS/MQX/inc/math.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/SysCtrl/DScalarCtrl.h",
+				"/D/Shiny4OS/Marmot/Latour/Test/LumaNRETEST/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Main/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Include/Test/TEST_LVHWIRP.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/main/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Include/Lua/LUA_LumaNRE.h",
+				"/D/Shiny4OS/Marmot/Apollo/Include/Lua/LUA_LumaNRE.h",
+				"/D/Shiny4OS/Marmot/Latour/Include/Lua/LUA_HW3A_a.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/sourcelist",
+				"/D/TEST/teset.c",
+				"/D/Shiny4OS/TBirdOS(Apollo)/Include/HAL/HAL_LumaNRE.h",
+				"/D/Shiny4OS/TBirdOS(Apollo)/Include/HAL/HAL_Common.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_DScalar.c",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_Cap.c",
+				"/D/Shiny4OS/Marmot/Latour/Include/Test/TEST_Cap.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_A3_RawLineMerge_Dbg.c",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_A3_RawLineMerge.c",
+				"/D/Shiny4OS/Marmot/Latour/Include/Test/TEST_A3_RawLineMerge.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/CommonDef.h",
+				"/D/Shiny4OS/MQX/SOURCE/include/mqx.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/error.h",
+				"/D/Shiny4OS/Marmot/Apollo/Include/TEST/TEST_DScalar.h",
+				"/D/Shiny4OS/TBirdOS(Apollo)/Include/HAL/HAL_DScalar.h",
+				"/D/Shiny4OS/Marmot/Apollo/Lua/cmd/LUA_DScalar.c",
+				"/D/Shiny4OS/Marmot/Apollo/Lua/src/lauxlib.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/LumaNRECtrl/sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/DScalarCtrl/sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/DHistCtrl/sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/LVHWIRPCtrl/sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/StereoMatchCtrl/sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/USPICtrl/sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/sourcedir",
+				"/D/Shiny4OS/MQX/SOURCE/include/fio.h",
+				"/D/Shiny4OS/MQX/inc/stdio.h",
+				"/D/Shiny4OS/Marmot/Latour/Test/DScalarTEST/script/DScalar.lua",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/SysCtrl/LumaNRECtrl/sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/LumaNRECtrl/email.txt",
+				"/D/Shiny4OS/Marmot/Latour/Include/RTOS/LumaNRECtrl_rtos.h",
+				"/D/Shiny4OS/Marmot/Latour/Include/Error/LumaNRECtrl_err.h",
+				"/D/Shiny4OS/TBirdOS(Apollo)/Include/HAL/mtype.h",
+				"/D/Shiny4OS/Marmot/Latour/Test/LumaNRETEST/LumaNRECtrl.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_DScalar_Dbg.c",
+				"/D/Shiny4OS/Marmot/Latour/Test/SOURCEDIR",
+				"/D/Shiny4OS/Marmot/Latour/Console/CmdMain/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Console/CmdData/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Test/CapTEST/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Test/RectTEST/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Public/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Script/InternalCAPI/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Test/StereoMatchTEST/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Test/DScalarTEST/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Test/HW3A_a_Test/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Test/A3RawLineMergeTest/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Console/CmdParser/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Script/BuiltInCommands/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Lua/src/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Script/SystemCommands/sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/HAL/HAL_Common.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/HAL/LumaNRE/HAL_LumaNRE_Dbg.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/HAL/sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/HAL/LumaNRE/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/複製 -sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/HAL/HAL_DScalar.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_Cap_Dbg.c",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_LumaNREDbg_.c",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/複製 -LUA_LumaNRE.c",
+				"/D/Shiny4OS_server/Marmot/Latour/Lua/cmd/LUA_LumaNRE.c",
+				"/D/Shiny4OS/Marmot/Latour/Include/Lua/LUA_DepthTop.h",
+				"/D/Shiny4OS/Marmot/Latour/Include/Lua/LUA_Cmd.h",
+				"/D/Shiny4OS/Marmot/Apollo/Lua/src/lua.h",
+				"/D/Shiny4OS_server/Marmot/Latour/Lua/cmd/sourcelist",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_DHist.c",
+				"/D/Shiny4OS/TBirdOS(Apollo)/Include/HAL/HAL_NRE3D.h",
+				"/D/Shiny4OS/Marmot/Apollo/Lua/cmd/LUA_NRE3D.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/HAL/Common/HAL_Top.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/HAL/LumaNRE/HAL_NRE3D.c",
+				"/D/Shiny4OS/TBirdOS(Apollo)/HAL/LumaNRE/HAL_LumaNRE.c",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/Google Translate/Default (Windows).sublime-keymap",
+				"/D/Shiny4OS/Marmot/Apollo/Lua/cmd/LUA_Cmd.c"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"D:\\Shiny4OS\\Marmot\\Latour\\Lua\\cmd",
+					"D:\\Shiny4OS\\Marmot\\Latour",
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"HAL_LUMANRE_EnableSoftReset",
+					"LUA_LumaNRE_softrst",
+					"_MODULE_DVT_",
+					"LUA_LVHWIRP_waitfd",
+					"LUA_LVHWIRP_chkupdate",
+					"ori_checksumxor",
+					"Shiny4OS",
+					"CheckConfig",
+					"LUA_LVHWIRP_SetFixRegister",
+					"sqlite_get_data",
+					"update",
+					"LUA_LumaNRE_drvopen",
+					"file_read",
+					"g_TEST_LUMANRECTRL_tParam",
+					"FileRead(",
+					"fileread",
+					"file_read",
+					"HAL_LUMANRE_SELECT_LUMANRE_0",
+					"TEST_LUMANRE_PARAMETER",
+					"wait",
+					"g_TEST_LUMANRE_tSWConfig",
+					"LUMANRECTRL_CONFIGPARAM_FIELD",
+					"LUMANRECTRL_FUNC_ID",
+					"HAL_LUMANRE_DEBUG_INFO",
+					"hal",
+					"Callback_InOpDone",
+					"hal",
+					"HAL_",
+					"HAL_LUMANRE_SetQualityParameter",
+					"HAL",
+					"->",
+					"HAL_",
+					"LUA_LumaNRE_getinfo",
+					"TEST_",
+					"g_tLUMANREDebugInfo",
+					"hal",
+					"g_tLUMANREDebugInfo",
+					"LumaNRE_EnableINTCtrl",
+					"   ",
+					"g_TEST_LUMANRE_tParam",
+					"g_TEST_LUMANRECTRL_tParam",
+					"HAL_LVHWIRP",
+					"HAL_LVHWIRP_ADDRESS_CONFIG_INFO",
+					"UINT32",
+					"g_pSetParamFuncArray",
+					"SetINTCtrl",
+					"tINTCtrl",
+					"ori_checksumxor",
+					"LUMANRECTRL_PARAM_ID_CALLBACK",
+					"tCallBack",
+					"LUMANRECTRL_CALLBACK",
+					"test",
+					"SetFuncID",
+					"SetWhole",
+					"g_pSetParamFuncArray",
+					"TEST_LUMANRE_ModuleCtrl_OFFSET",
+					"TEST",
+					"TIMER_GetMicroSecond",
+					"TBirdOS",
+					"LUA_LumaNRE_go",
+					"LUA_LumaNRE_softrst",
+					"LUA_LumaNRE_getparaloc",
+					"LUA_LumaNRE_softrst",
+					"LUA_LumaNRE_getparaloc",
+					"(LUA_LumaNRE_)",
+					"LUA_LUMANRE_getparaloc",
+					"g_TEST_LUMANR_hHandle",
+					"ctrl",
+					"LUA_LumaNRE_go",
+					"HAL_LumaNRE_GetUpdateStatus",
+					"g_tLUMANREDebugInfo",
+					"g_tFlybySizeInfo",
+					"g_atDScalarDbgCmdLib",
+					"LUA_LumaNRE_getidx",
+					"get_",
+					"301",
+					"(\\w+\\()(\\w+)",
+					"\\w+(\\()\\w+",
+					"TIMER_GetMicroSecond",
+					"chkxor",
+					"LUA_LVHWIRP_getidx",
+					"LUA_DSCALAR_getidx",
+					"frame_in",
+					"HAL_COMMON_SetRegister(",
+					"HAL_COMMON_GetRegister(",
+					"HAL_COMMON_ClearInterruptStatus(",
+					"HAL_COMMON_GetRegister(",
+					"HAL_COMMON_SetRegister(",
+					"ucRtNRt",
+					"LUA_LumaNRE_setimgsize",
+					"\\w+",
+					"LUA_Cap_Dbg_Open",
+					"jmp_checksumxor",
+					"\\b.*4.*f.*\\b",
+					"s/132/PPP",
+					"\\d\\d\\d\\d",
+					" +",
+					"in_w",
+					"LUA",
+					"waitfd",
+					"LUA_LumaNRE_waitfd",
+					"LUA_LumaNRE_getupdate",
+					"a_udOutStartAddr",
+					"run(lua_State *a_ptstr)",
+					"setoutswwoiy",
+					"LUA_LVHWIRP_setcolor",
+					"LUA_LVHWIRP_setinaddr",
+					"LUA_LVHWIRP_setimgsize",
+					"LUA_LumaNRE_setpath",
+					"LUA_LVHWIRP_setpath",
+					"LUA_LVHWIRP_sendreq",
+					"LUA_LVHWIRP_setcont",
+					"LUA_LVHWIRP_softrst",
+					"_LUMANR_",
+					"LUMANR",
+					"g_TEST_LUMANR_tPureBypass",
+					"./Case006/",
+					"nre3d",
+					"dmalist",
+					"for",
+					"#",
+					"for",
+					"#",
+					"for",
+					"LVLUMANRE_",
+					"nre3d",
+					"_NRE3D_",
+					"BYPASS_EDGE_SMOOTH"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"unsigned int",
+					"TBirdOS(Latour)",
+					"LUA_LumaNRE_",
+					"g_TEST_LUMANRE_hHandle",
+					"$1 $2",
+					"$1 ",
+					"_LUMANRE_",
+					"LUMANRE",
+					"./",
+					"_LumaNRE_",
+					"                        HAL_LUMANRE_SELECT_LUMANRE_0 for setting LUMANRE_0 register <BR>\n                        HAL_LUMANRE_SELECT_LUMANRE_1 for setting LUMANRE_1 register\n",
+					"                         HAL_LUMANRE_SELECT_LUMANRE_0 for setting LUMANRE_0 register <BR>\n                         HAL_LUMANRE_SELECT_LUMANRE_1 for setting LUMANRE_1 register\n",
+					" ",
+					"=",
+					"-D",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.clang":
+			{
+				"height": 197.0
+			},
+			"output.clang_static_analyzer":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 258.0
+			},
+			"replace":
+			{
+				"height": 100.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"lualuman",
+						"Marmot/Latour/Lua/cmd/LUA_LumaNRE_Dbg.c"
+					],
+					[
+						"test",
+						"Marmot/Latour/Test/LumaNRETEST/TEST_LumaNRE.c"
+					],
+					[
+						"lumanrec",
+						"TBirdOS(Latour)/SysCtrl/LumaNRECtrl/LumaNRECtrl.c"
+					],
+					[
+						"misc",
+						"Marmot/Latour/Lua/cmd/LUA_Misc.c"
+					],
+					[
+						"lumanre",
+						"TBirdOS(Latour)/SysCtrl/LumaNRECtrl/LumaNRECtrl.c"
+					],
+					[
+						"hwirp",
+						"TBirdOS(Latour)/Include/RTOS/LVHWIRPCtrl_rtos.h"
+					],
+					[
+						"lumanrectrl_rtos",
+						"TBirdOS(Latour)/Include/RTOS/LumaNRECtrl_rtos.h"
+					],
+					[
+						"main",
+						"Latour/Include/RTOS/Main_rtos.h"
+					],
+					[
+						"lualv",
+						"Latour/Lua/cmd/LUA_LVHWIRP_Dbg.c"
+					],
+					[
+						"sysc",
+						"Latour/Include/SystemConfig/SysCfg.h"
+					],
+					[
+						"afope",
+						"Latour/Console/CmdParser/afopen.h"
+					],
+					[
+						"afop",
+						"Latour/Include/Console/afopen.h"
+					],
+					[
+						"ctrl",
+						"Latour/Include/CTRL_IOBus.h"
+					],
+					[
+						"err",
+						"TBirdOS(Latour)/Include/Error/LumaNRECtrl_err.h"
+					],
+					[
+						"_err",
+						"TBirdOS(Latour)/Include/Error/rtos_err.h"
+					],
+					[
+						"lvhwirpctrl_rtos.h",
+						"TBirdOS(Latour)/Include/RTOS/LVHWIRPCtrl_rtos.h"
+					],
+					[
+						"lumanrertos",
+						"TBirdOS(Latour)/Include/RTOS/LumaNRECtrl_rtos.h"
+					],
+					[
+						"lumanrectrl_rtos.h",
+						"TBirdOS(Latour)/Include/RTOS/LumaNRECtrl_rtos.h"
+					],
+					[
+						"mainrtos",
+						"Latour/Include/RTOS/Main_rtos.h"
+					],
+					[
+						"luamipi",
+						"Latour/Lua/cmd/LUA_MIPILineRead_Dbg.c"
+					],
+					[
+						"luacmd",
+						"Latour/Lua/cmd/LUA_Cmd.c"
+					],
+					[
+						"testds",
+						"Latour/Test/DScalarTEST/TEST_DScalar.c"
+					],
+					[
+						"dsctr",
+						"TBirdOS(Latour)/SysCtrl/DScalarCtrl/DScalarCtrl.c"
+					],
+					[
+						"tedh",
+						"Latour/Include/Test/TEST_DScalar.h"
+					],
+					[
+						"dctrl",
+						"TBirdOS(Latour)/Include/SysCtrl/DScalarCtrl.h"
+					],
+					[
+						"hallum",
+						"TBirdOS(Latour)/HAL/LumaNRE/HAL_LumaNRE.c"
+					],
+					[
+						"testhwirp",
+						"Latour/Test/LVHWIRPTEST/TEST_LVHWIRP.c"
+					],
+					[
+						"hal",
+						"TBirdOS(Latour)/Include/HAL/HAL_LVHWIRP.h"
+					],
+					[
+						"lvhir",
+						"Latour/Include/Test/TEST_LVHWIRP.h"
+					],
+					[
+						"lua.h",
+						"Latour/Include/Lua/LUA_HW3A_a.h"
+					],
+					[
+						"lumadbg",
+						"Latour/Lua/cmd/LUA_LumaNRE_Dbg.c"
+					],
+					[
+						"testhwi",
+						"Latour/Test/LVHWIRPTEST/TEST_LVHWIRP.c"
+					],
+					[
+						"halhwir",
+						"TBirdOS(Latour)/Include/HAL/HAL_LVHWIRP.h"
+					],
+					[
+						"telvhwirp",
+						"Latour/Test/LVHWIRPTEST/TEST_LVHWIRP.c"
+					],
+					[
+						"lvhwir",
+						"Latour/Include/Test/TEST_LVHWIRP.h"
+					],
+					[
+						"lumanrectrl",
+						"TBirdOS(Latour)/Include/Error/LumaNRECtrl_err.h"
+					],
+					[
+						"lumanrectrl.h",
+						"TBirdOS(Latour)/Include/RTOS/LumaNRECtrl_rtos.h"
+					],
+					[
+						"commondef",
+						"TBirdOS(Latour)/Include/CommonDef.h"
+					],
+					[
+						"mqx",
+						"MQX/SOURCE/include/mqx.h"
+					],
+					[
+						"osshell",
+						"TBirdOS(Latour)/Include/osshell.h"
+					],
+					[
+						"lumanrectrl_err",
+						"TBirdOS(Latour)/Include/Error/LumaNRECtrl_err.h"
+					],
+					[
+						"luadsca",
+						"Marmot/Apollo/Lua/cmd/LUA_DScalar.c"
+					],
+					[
+						"fio",
+						"MQX/SOURCE/include/fio.h"
+					],
+					[
+						"stdio",
+						"MQX/inc/stdio.h"
+					],
+					[
+						"lumactrl",
+						"TBirdOS(Latour)/SysCtrl/LumaNRECtrl/LumaNRECtrl.c"
+					],
+					[
+						"lumactr",
+						"TBirdOS(Latour)/Include/SysCtrl/LumaNRECtrl.h"
+					],
+					[
+						"luma",
+						"TBirdOS(Latour)/Include/HAL/HAL_LumaNRE.h"
+					],
+					[
+						"com",
+						"TBirdOS(Latour)/Include/CommonDef.h"
+					],
+					[
+						"lualuma",
+						"Marmot/Latour/Lua/cmd/LUA_LumaNRE_Dbg.c"
+					],
+					[
+						"luads",
+						"Marmot/Latour/Lua/cmd/LUA_DScalar_Dbg.c"
+					],
+					[
+						"luad",
+						"Marmot/Apollo/Lua/cmd/LUA_DScalar.c"
+					],
+					[
+						"testluma.h",
+						"Marmot/Latour/Include/Test/TEST_LumaNRE.h"
+					],
+					[
+						"luma.h",
+						"TBirdOS(Latour)/Include/HAL/HAL_LumaNRE.h"
+					],
+					[
+						"halluma",
+						"TBirdOS(Latour)/HAL/LumaNRE/HAL_LumaNRE.c"
+					],
+					[
+						"testlua",
+						"Marmot/Latour/Test/LumaNRETEST/TEST_LumaNRE.c"
+					],
+					[
+						"lua_lu",
+						"Marmot/Apollo/Include/Lua/LUA_LumaNRE.h"
+					],
+					[
+						"teslum",
+						"Marmot/Latour/Test/LumaNRETEST/TEST_LumaNRE.c"
+					],
+					[
+						"rtos",
+						"TBirdOS(Latour)/Include/rtosevent.h"
+					],
+					[
+						"luanre3",
+						"Marmot/Apollo/Lua/cmd/LUA_NRE3D.c"
+					],
+					[
+						"lumareg",
+						"TBirdOS(Latour)/Include/HAL/Reg/LumaNRE_Reg.h"
+					],
+					[
+						"hallun",
+						"TBirdOS(Latour)/Include/HAL/HAL_LumaNRE.h"
+					],
+					[
+						"testlu",
+						"Marmot/Latour/Test/LumaNRETEST/TEST_LumaNRE.c"
+					],
+					[
+						"lumanrctrl",
+						"Marmot/Latour/Test/LumaNRETEST/LumaNRECtrl.h"
+					],
+					[
+						"testluman",
+						"Marmot/Latour/Include/Test/TEST_LumaNRE.h"
+					],
+					[
+						"tluma",
+						"Marmot/Latour/Test/LumaNRETEST/TEST_LumaNRE.c"
+					],
+					[
+						"luman",
+						"Marmot/Latour/Test/LumaNRETEST/LumaNRECtrl.h"
+					],
+					[
+						"teshw",
+						"Marmot/Apollo/Test/HW3A_a_Test/TEST_HW3A_a.c"
+					],
+					[
+						"luahdrt",
+						"Marmot/Apollo/Lua/cmd/LUA_HDRT.c"
+					],
+					[
+						"luahdr",
+						"Marmot/Apollo/Lua/cmd/LUA_HDRM.c"
+					],
+					[
+						"lua_.c",
+						"Marmot/Apollo/Lua/cmd/LUA_HDRT.c"
+					],
+					[
+						"haluma",
+						"TBirdOS(Latour)/Include/HAL/HAL_LumaNRE.h"
+					],
+					[
+						"testl",
+						"Marmot/Apollo-ARC/Test/LumaNRTEST/TEST_LumaNR.c"
+					],
+					[
+						"testluma",
+						"Marmot/Apollo-ARC/Include/Test/TEST_LumaNR.h"
+					],
+					[
+						"hal_luma",
+						"TBirdOS-ARC/Include/HAL/HAL_LumaNR.h"
+					],
+					[
+						"lumanr",
+						"TBirdOS-ARC/HAL/HAL_LumaNR.c"
+					],
+					[
+						"lumane",
+						"TBirdOS-ARC/Include/RTOS/LumaNRECtrl_rtos.h"
+					],
+					[
+						"strat",
+						"/D/Apollo/NRE3D/testcase/parameter_3_AII/cmodel_run.py"
+					],
+					[
+						"",
+						"/D/Apollo/NRE3D/testcase/parameter_3_AII/cmodel_run.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 199.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 977.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"le",
+						"input_left_crop_pixel_num	int"
+					],
+					[
+						"d",
+						"input_down_crop_pixel_num	int"
+					],
+					[
+						"ERR_",
+						"ERR_SUCCESS	macro"
+					],
+					[
+						"ERRS",
+						"ERROR_SUCCESS	macro"
+					],
+					[
+						"cas",
+						"case_info"
+					],
+					[
+						"init",
+						"init_Parameter"
+					],
+					[
+						"F",
+						"FIRST_PAT"
+					],
+					[
+						"luma",
+						"lumanre"
+					],
+					[
+						"E",
+						"ENABLE"
+					],
+					[
+						"lu",
+						"lumanre"
+					],
+					[
+						"Group",
+						"Group_ID"
+					],
+					[
+						"Patt",
+						"Pattern_ID"
+					],
+					[
+						"log",
+						"logmsg"
+					],
+					[
+						"a",
+						"a_str"
+					],
+					[
+						"con",
+						"const"
+					],
+					[
+						"lvhw",
+						"lvhwirp_dbg"
+					],
+					[
+						"id",
+						"idx_info"
+					],
+					[
+						"lvh",
+						"lvhwirp_hwid"
+					],
+					[
+						"lv",
+						"lvhwirp_dbg"
+					],
+					[
+						"fra",
+						"frame_index"
+					],
+					[
+						"set",
+						"setinaddr"
+					],
+					[
+						"lhwid",
+						"lvhwirp_hwid"
+					],
+					[
+						"sr",
+						"src_w"
+					],
+					[
+						"g",
+						"group_info"
+					],
+					[
+						"db",
+						"db_path"
+					],
+					[
+						"in",
+						"initpara"
+					],
+					[
+						"c",
+						"condition"
+					],
+					[
+						"mo",
+						"module_name"
+					],
+					[
+						"ge",
+						"getparaloc"
+					],
+					[
+						"gr",
+						"group_info"
+					],
+					[
+						"gp",
+						"group_info"
+					],
+					[
+						"CModel_fina",
+						"CModel_final_y_xor_out	UINT32"
+					],
+					[
+						"CModel_fi",
+						"CModel_final_fmap_xor_out	UINT32"
+					],
+					[
+						"sum",
+						"CModel_final_y_sum_out	UINT32"
+					],
+					[
+						"UINT",
+						"UINT32	typedef"
+					],
+					[
+						"UI",
+						"UINT32	typedef"
+					],
+					[
+						"t",
+						"tile_write_line_offset	UINT32"
+					],
+					[
+						"pa",
+						"Pattern_"
+					],
+					[
+						"for",
+						"format"
+					],
+					[
+						"ch",
+						"chksumxor"
+					],
+					[
+						"str",
+						"string"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"l",
+						"lvhwirp_hwid"
+					],
+					[
+						"so",
+						"softrst"
+					],
+					[
+						"tw",
+						"tsw_config	TEST_LUMANRE_SW_CONFIG"
+					],
+					[
+						"woi",
+						"woi_y	UINT32"
+					],
+					[
+						"b",
+						"base_x"
+					],
+					[
+						"Src",
+						"SrcHeight"
+					],
+					[
+						"0xff",
+						"0xffffffff"
+					],
+					[
+						"i",
+						"inc	#include \"…\""
+					],
+					[
+						"rtcre",
+						"rtcreg_15_0"
+					],
+					[
+						"reg",
+						"reg_write"
+					],
+					[
+						"src",
+						"src_cb"
+					],
+					[
+						"s",
+						"system"
+					],
+					[
+						"is",
+						"isdir  (function)"
+					],
+					[
+						"sys",
+						"system  (function)"
+					],
+					[
+						"ca",
+						"case_nb"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Y/Latour/TestCase/LumaNRE/script/LumaNRE_ALL_dbg.lua",
+					"settings":
+					{
+						"buffer_size": 11461,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"pai",
+						"Package Control: Install Package"
+					],
+					[
+						"packi",
+						"Package Control: Install Package"
+					],
+					[
+						"packin",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"paci",
+						"Package Control: Install Package"
+					],
+					[
+						"pacin",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"p",
+						"Package Control: Disable Package"
+					],
+					[
+						"instag",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: d",
+						"Package Control: Disable Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 207.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/server_shiny_613/TBirdOS(Latour)/Include/HAL/HAL_LumaNRE.h",
+				"/D/server_shiny_613/Marmot/Latour/Include/Test/TEST_LumaNRE.h",
+				"/D/複製 -server_shiny_613/latour613.sublime-project",
+				"/D/server_shiny_613/TBirdOS(Latour)/Include/Error/LumaNRECtrl_err.h",
+				"/D/server_shiny_613/TBirdOS(Latour)/Include/moduleid.h",
+				"/D/server_shiny_613/TBirdOS(Latour)/Include/error.h",
+				"/D/server_shiny_613/Marmot/Latour/Lua/cmd/LUA_LVHWIRP_Dbg.c",
+				"/Y/Latour/TestCase/LumaNRE/script/LumaNRE_Std_Routine.lua",
+				"/D/server_shiny_613/latour613.sublime-project",
+				"/D/simulator_latour/Marmot/Latour/Lua/cmd/LUA_LVHWIRP.c",
+				"/D/simulator_latour/TBirdOS(Latour)/SysCtrl/LVHWIRPCtrl/LVHWIRPCtrl.c",
+				"/D/Latour/RXLineSplit/RX_excel2db.py",
+				"/D/simulator_latour/Marmot/Latour/Test/LumaNRETEST/script/LumaNRE.lua",
+				"/Y/Latour/TestCase/LumaNRE/script/LumaNRE_sim.lua",
+				"/D/simulator_latour/Marmot/Latour/Public/File_Tool.c",
+				"/D/simulator_latour/Marmot/Latour/Lua/cmd/LUA_Misc.c",
+				"/D/simulator_latour/TBirdOS(Latour)/Include/error.h",
+				"/D/simulator_latour/TBirdOS(Latour)/Include/moduleid.h",
+				"/D/simulator_latour/sim_latour.sublime-project",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/D/Latour/Lvlumanr/test_case/lau_script/HDRM/HDRM.lua",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/Lua Dev/Lua Dev.sublime-settings",
+				"/D/Latour/Lvlumanr/test_case/lau_script/LumaNRE/crp_in.lua",
+				"/d/Shiny4OS/TBirdOS(Latour)/SysCtrl/LumaNRECtrl/LumaNRECtrl.c",
+				"/d/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_LumaNRE_Dbg.c",
+				"/d/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_LVHWIRP_Dbg.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/SysCtrl/LumaNRECtrl.h",
+				"/d/Shiny4OS/TBirdOS(Latour)/Include/error.h",
+				"/d/Shiny4OS/Marmot/Latour/Test/LVHWIRPTEST/TEST_LVHWIRP.c",
+				"/d/Shiny4OS/TBirdOS(Latour)/Include/HAL/HAL_LVHWIRP.h",
+				"/d/Shiny4OS/TBirdOS(Latour)/HAL/Common/HAL_Common.c",
+				"/d/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_LVHWIRP.c",
+				"/D/Latour/Lvlumanr/test_case/lau_script/lau_script.sublime-project",
+				"/d/Shiny4OS/Marmot/Apollo/Lua/cmd/LUA_LumaNRE.c",
+				"/d/Shiny4OS/Marmot/Latour/Test/DScalarTEST/script/DScalar.lua",
+				"/d/Shiny4OS/TBirdOS(Latour)/SysCtrl/DHistCtrl/DHistCtrl.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/DHistCtrl/sourcelist",
+				"/D/Shiny4OS/TBirdOS(Latour)/SysCtrl/sourcedir",
+				"/d/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_Misc.c",
+				"/d/Shiny4OS/Marmot/Apollo/Include/Lua/LUA_Misc.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_Cmd.c",
+				"/D/Latour/Lvlumanr/test_case/lumanre_database/run_CM.py",
+				"/D/Latour/Lvlumanr/test_case/lau_script/LumaNRE/lumanre_dbg.lua",
+				"/D/Latour/Lvlumanr/test_case/lau_script/HDRT/script/dbg/single.lua",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_LumaNRE.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/HAL/Reg/LumaNRE_Reg.h",
+				"/D/Shiny4OS/TBirdOS(Latour)/Include/HAL/HAL_LumaNRE.h",
+				"/D/Sunny10OS/Marmot/SD10P/Test/HDRTTEST/TEST_HDRT.c",
+				"/D/Sunny10OS/Marmot/SD10P/Lua/cmd/LUA_Misc.c",
+				"/D/Shiny4OS/Marmot/Latour/Test/LumaNRETEST/LumaNRECtrl.h",
+				"/D/Shiny4OS/Marmot/Latour/Include/Test/TEST_LumaNRE.h",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_LumaNRE_Dbg.c",
+				"/D/Shiny4OS/Marmot/Latour/Test/LumaNRETEST/TEST_LumaNRE.c",
+				"/D/Latour/Lvlumanr/test_case/lau_script/HDRM/Autorun.lua",
+				"/D/Latour/Lvlumanr/test_case/lau_script/HDRM/HDRM_Debug.lua",
+				"/D/Sunny10OS/Marmot/SD10P/Lua/cmd/LUA_HDRT.c",
+				"/D/Sunny10OS/TBirdOS(SD10P)/SysSW/OSShell/memmove.s",
+				"/D/Sunny10OS/Marmot/SD10P/Test/HDRTTEST/HDRT_Para.h",
+				"/D/Shiny4OS/Marmot/Apollo/Include/Test/TEST_HDRT.h",
+				"/D/Latour/Lvlumanr/test_case/lau_script/Cap/Lua/Cap_otherpath.lua",
+				"/D/Latour/Lvlumanr/test_case/lau_script/BayScl/Lua/BayScl_path1.lua",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_Mem.c",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_Misc.c",
+				"/D/Shiny4OS/Marmot/Latour/Lua/cmd/LUA_BayScl_Dbg.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/Marmot/Apollo-ARC/Test/LumaNRTEST/TEST_LumaNR.c",
+				"/D/Shiny4OS/TBirdOS(Latour)/HAL/LumaNRE/HAL_LumaNRE.c",
+				"/D/Sunny10OS/Marmot/SD10P/Lua/cmd/LUA_HDRM.c",
+				"/D/Sunny10OS/Marmot/SD10P/Test/HDRMTEST/TEST_HDRM.c",
+				"/D/Latour/Lvlumanr/test_case/lvlumanr_header.py",
+				"/D/Latour/Lvlumanr/test_case/lau_script/BayScl/Lua/BatchScripts.lua",
+				"/D/Latour/Lvlumanr/test_case/lau_script/LumaNRE/crp_in",
+				"/D/Latour/Lvlumanr/test_case/lau_script/BayScl/Lua/BayScl_Bugfix.lua",
+				"//sdvnas/TestCaseBase_SD10/SD10P/TestCase/UART/uart_cmd.txt",
+				"//sdvnas/TestCaseBase_SD10/SD10PMP/TestCase/Audio/SD10PMP_NB/pins_cfg_slave.txt",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/Cap/Lua/Cap_Path1_4G.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/Cap/Lua/Cap_otherpath.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/Cap/Lua/BatchScripts.lua",
+				"/D/Latour/SD10PMP_BayScl_Path1.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/Cap/Lua/Cap_path1_SramPD.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/Cap/Lua/Cap_path1_shd.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/Cap/Lua/Cap_path1_continue.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/Cap/Lua/template.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/Cap/Lua/Cap_path1_basic.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/HDRT/script/BatchScripts_LargeDB.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/HDRT/script/dbg/single.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/HDRT/script/HDRT_Std_Routine.lua",
+				"/D/Latour/Lvlumanr/CModel/Latour-testingcase/run.bat",
+				"//asicserver/Shiny/Latour/Latour_Release/CModel/LvLumaNRE/TestingCase/run.bat",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/HDRT/script/batch.txt",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/Cap/Lua/Cap_Path1_shdbyte.lua",
+				"//sdvnas/TestCaseBase_Shiny4/Apollo/TestCase/HDRT/script/dbg/single.txt",
+				"/D/Sunny10OS/Marmot/SD10MP/Include/Test/TEST_UART.h",
+				"/D/Shiny4OS/Marmot/Apollo/Lua/cmd/LUA_HDRT.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/HAL/HAL_MIPILineWrite.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/Error/LumaNRECtrl_err.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/moduleid.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/rtosevent.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/HAL/mtype.h",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/CTags/Default.sublime-keymap",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/HAL/HAL_MIPILineWrite.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/HAL/HAL_PureBypass.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/HAL/HAL_PureBypass.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/SysCtrl/LVHWIRPCtrl.h",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Documents and Settings/brettchen/Application Data/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/D/Apollo/NRE3D/NRE3D HAL code/Marmot/Apollo-ARC/Include/Test/TEST_LumaNR.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/HAL/HAL_Sharpness.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/Marmot/Apollo-ARC/Test/ASharpTEST/TOOL_Parser.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/Marmot/Apollo-ARC/Test/ASharpTEST/REG_ASharp.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/Marmot/Apollo-ARC/Test/ASharpTEST/REG_ASharp.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/Marmot/Apollo-ARC/Test/ASharpTEST/TOOL_Parser.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/SysCtrl/SharpnessCtrl.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/HAL/HAL_Sharpness.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/SysCtrl/SharpnessCtrl/SharpnessCtrl.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/Marmot/Apollo-ARC/Test/ASharpTEST/TEST_ASharp.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/Marmot/Apollo-ARC/Test/ASharpTEST/FIO_ASharp.c",
+				"/D/Apollo/NRE3D/testcase/cmodel_total_run.py",
+				"/D/Apollo/NRE3D/NRE3D HAL code/Marmot/Apollo-ARC/Lua/cmd/LUA_LumaNR.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/SysCtrl/LumaNRECtrl.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/HAL/HAL_NRE3D.c",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/HAL/HAL_NRE3D.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/Include/HAL/Reg/NRE3D_Reg.h",
+				"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS-ARC/HAL/HAL_Common.c",
+				"/D/Sunny10OS/TBirdHAL/S10Plus/SourceCode/UART/HAL_UART.c",
+				"/D/Sunny10OS/TBirdHAL/S10Plus/Include/Reg/UART_Reg.h",
+				"/D/Sunny10OS/TBirdHAL/S10P/Include/HAL_UART.H"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"lvhwirp_dbg",
+					"server_shiny_613",
+					"CheckConfig",
+					"CheckWhole",
+					"Check\\w+para",
+					"CheckFuncID",
+					"CheckWhole",
+					"LUA_LumaNRE_setreg",
+					"EVENT_LW_Wait",
+					"LUA_LumaNRE_open",
+					"Shiny4OS",
+					"LUA_LVHWIRP_StartOperation",
+					"LUA_LVHWIRP_opstart",
+					"LUA_LVHWIRP_Initial",
+					"file_read",
+					"read",
+					"sqlite_get_data",
+					"\\\\\\\\",
+					"init_Parameter",
+					"LUA_LumaNRE_getidx",
+					"waitup",
+					"sendreq",
+					"setreg",
+					"setframeindex",
+					"setoutswwoiy",
+					"setinaddr",
+					"LUA_LumaNRE_open",
+					"setpath",
+					"cont",
+					"LUA_LVHWIRP_softrst",
+					"D:/Shiny4OS/",
+					"SUCCESS",
+					"file_read",
+					"build",
+					"LUA_LVHWIRP_getupdate",
+					"LUA_LVHWIRP_setidx",
+					"LUA_LumaNRE_getidx",
+					"LUA_LVHWIRP_getidx",
+					"TIMER_GetMicroSecond",
+					"LUA_LumaNRE_wait",
+					"LUA_LumaNRE_go",
+					"LUA_LumaNRE_setreg",
+					"LUA_LumaNRE_getinfo",
+					"para_addr",
+					"LUA_LumaNRE_getnextcfg",
+					"LUA_LumaNRE_getparaloc",
+					"LUA_LumaNRE_setreg",
+					"LUA_LumaNRE_getnextcfg",
+					"LUA_LVHWIRP_SetFixRegister",
+					"CheckConfig",
+					"LUA_LVHWIRP_SetFixRegister",
+					"LUA_LumaNRE_getinfo",
+					"fail_cnt",
+					"jmp_checksumxor",
+					"read",
+					"font",
+					"LUA_LVHWIRP_waitfd",
+					"LUA_LVHWIRP_setinaddr",
+					"LUA_LVHWIRP_setpath",
+					"LUA_LUMANRE_setreg",
+					"LUA_LumaNRE_go",
+					"LUA_LUMANRE_getnextcfg",
+					"LUA_LUMANRE_getparaloc",
+					"([,=])(\\w+)",
+					"\\w+,\\w+",
+					"(\\w+)",
+					"\\w+",
+					"(\\w+)",
+					"\\w+",
+					"function ",
+					"function",
+					" \\( *(\\w\\w+)",
+					" \\(( *\\w\\w+)",
+					"\\((\\w\\w+)",
+					"\\((\\w+)",
+					"[\\w']+,\\w+",
+					"\\w+,\\w",
+					"(\\b\\w+)[(](\\w\\w+)",
+					"(\\b\\w+)[(](\\w+)",
+					"(\\b\\w+)[(]\\w",
+					"start_addr",
+					"output_addr",
+					"LUA_LUMANRE_getinfo",
+					"hdrt_info_st",
+					"file_write",
+					"get_info",
+					"pattern_list",
+					"    // {\"getinfo\",         LUA_LUMANRE_getinfo      },   \n",
+					"TEST_LUMANR_ModuleCtrl_Offset",
+					"TEST_LUMANRE_ModuleCtrl_Offset",
+					"read_binary_cfg",
+					"field_form",
+					"result_form",
+					"Inputsize",
+					"LUA_HDRM_Img",
+					"ImgSrc",
+					"CAS_LST",
+					"read_reg",
+					"reset",
+					"casenum",
+					"sqlite_get_data",
+					"testcase_path",
+					"memblk",
+					"set2register",
+					"setreg",
+					"set_soft_reset",
+					"srst",
+					"get_info",
+					"Outaddr",
+					"Input_address",
+					"Inputsize",
+					"LUMANRE",
+					"LUMANRECTRL_",
+					"LUMANRECTRL_Open",
+					"a_phHandle",
+					"g_TEST_LUMANR_hHandle",
+					"LUMANRECTRL_Stop",
+					"LUMANRECTRL_Config",
+					"SetWhole",
+					"LUMANRECTRL_CALLBACK",
+					"TEST_LUMANR_InitialParameter",
+					"g_anState",
+					"LUMANRECTRL_Config",
+					"HAL_MIPILINEWRITE_SetTileWImgSize",
+					"HAL_MIPILINEWRITE_SetTileWAddr",
+					"HAL_MIPILINEWRITE_SetTileWImgSize",
+					"HAL_MIPILINEWRITE_SetTileWAddr",
+					"HAL_COMMON_IRP_TOP_PATH_ID_DRAM"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"/",
+					"$1 $2",
+					"$1\\\\b",
+					"$1b",
+					"$1\\b",
+					"$1[\\b]",
+					"$1\\b\\b\\b",
+					"\\( $1",
+					"$1( $2",
+					"$1( ",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Y/Latour/TestCase/LumaNRE/script/LumaNRE_ALL_dbg.lua",
+							"settings":
+							{
+								"buffer_size": 11461,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6708,
+										6708
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Lua Dev/Lua.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1900.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.clang_static_analyzer":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 294.0
+			},
+			"position": "0,0,1,-32000,-32000,-1,-1,986,934,45,1919",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"mty",
+						"TBirdOS(Latour)/Include/mtype.h"
+					],
+					[
+						"halluma",
+						"TBirdOS(Latour)/Include/HAL/HAL_LumaNRE.h"
+					],
+					[
+						"lvhwirpdbg",
+						"Marmot/Latour/Lua/cmd/LUA_LVHWIRP_Dbg.c"
+					],
+					[
+						"lualvhwirp",
+						"Marmot/Latour/Lua/cmd/LUA_LVHWIRP.c"
+					],
+					[
+						"lumare",
+						"TBirdOS(Latour)/Include/HAL/Reg/LumaNRE_Reg.h"
+					],
+					[
+						"lua_luma",
+						"Marmot/Latour/Lua/cmd/LUA_LumaNRE.c"
+					],
+					[
+						"lua_lvhw",
+						"Marmot/Latour/Lua/cmd/LUA_LVHWIRP.c"
+					],
+					[
+						"misc",
+						"Marmot/Latour/Lua/cmd/LUA_Misc.c"
+					],
+					[
+						"lumadbg",
+						"Marmot/Latour/Lua/cmd/LUA_LumaNRE_Dbg.c"
+					],
+					[
+						".lua",
+						"Marmot/Latour/Test/LumaNRETEST/script/LumaNRE.lua"
+					],
+					[
+						"lualum",
+						"Marmot/Latour/Lua/cmd/LUA_LumaNRE.c"
+					],
+					[
+						"lualv",
+						"Marmot/Latour/Lua/cmd/LUA_LVHWIRP_Dbg.c"
+					],
+					[
+						"luam",
+						"Latour/Lua/cmd/LUA_Misc.c"
+					],
+					[
+						"lualumadbg",
+						"Latour/Lua/cmd/LUA_LumaNRE_Dbg.c"
+					],
+					[
+						"luahwir",
+						"Latour/Lua/cmd/LUA_LVHWIRP_Dbg.c"
+					],
+					[
+						"test",
+						"Latour/Test/LVHWIRPTEST/TEST_LVHWIRP.c"
+					],
+					[
+						"dlua",
+						"Latour/Test/DScalarTEST/script/DScalar.lua"
+					],
+					[
+						"lualvhw",
+						"Latour/Lua/cmd/LUA_LVHWIRP.c"
+					],
+					[
+						"lualuma",
+						"Marmot/Latour/Lua/cmd/LUA_LumaNRE.c"
+					],
+					[
+						"lual",
+						"Marmot/Apollo/Lua/cmd/LUA_LumaNRE.c"
+					],
+					[
+						"dhctr",
+						"TBirdOS(Latour)/SysCtrl/DHistCtrl/DHistCtrl.c"
+					],
+					[
+						"dslua",
+						"Marmot/Latour/Test/DScalarTEST/script/DScalar.lua"
+					],
+					[
+						"luamiscc",
+						"Marmot/Latour/Lua/cmd/LUA_Misc.c"
+					],
+					[
+						"luamisc",
+						"Marmot/Apollo/Include/Lua/LUA_Misc.h"
+					],
+					[
+						"luaba",
+						"Lua/cmd/LUA_BayScl_Dbg.c"
+					],
+					[
+						"testl",
+						"Marmot/Apollo-ARC/Test/LumaNRTEST/TEST_LumaNR.c"
+					],
+					[
+						"testluma",
+						"Marmot/Apollo-ARC/Include/Test/TEST_LumaNR.h"
+					],
+					[
+						"hal_luma",
+						"TBirdOS-ARC/Include/HAL/HAL_LumaNR.h"
+					],
+					[
+						"lumanr",
+						"TBirdOS-ARC/HAL/HAL_LumaNR.c"
+					],
+					[
+						"lumane",
+						"TBirdOS-ARC/Include/RTOS/LumaNRECtrl_rtos.h"
+					],
+					[
+						"luma",
+						"TBirdOS-ARC/Include/HAL/Reg/LumaNR_Reg.h"
+					],
+					[
+						"strat",
+						"/D/Apollo/NRE3D/testcase/parameter_3_AII/cmodel_run.py"
+					],
+					[
+						"",
+						"/D/Apollo/NRE3D/testcase/parameter_3_AII/cmodel_run.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 212.0,
+			"status_bar_visible": true,
+			"window_id": 118,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/Latour_sim_631/latour_sim_631.sublime-project",
+			"/D/Shiny4OS/Latour.sublime-project",
+			"/D/server_shiny_613/latour613.sublime-project",
+			"/D/server_shiny_613_sim/latour613.sublime-project",
+			"/D/simulator_latour/sim_latour.sublime-project",
+			"/D/Latour/Lvlumanr/test_case/lau_script/lau_script.sublime-project",
+			"/D/TEST/python_excel_to_sqlite/python_excel_to_sqlite.sublime-project",
+			"/D/Apollo/NRE3D/NRE3D HAL code/TBirdOS_ARC.sublime-project",
+			"/D/Sunny10OS/sd10os.sublime-project",
+			"/D/Sunny10OS/Marmot/SD10P_proj.sublime-project",
+			"/D/Shiny4OS_proj.sublime-project",
+			"/D/TEST/SublimeClang/TEST/TEST.sublime-project",
+			"/D/Sunny10OS/sd10pmp.sublime-project"
+		]
+	}
+}
